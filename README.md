@@ -1,1 +1,1 @@
-just my solutiosn to exercises i solved at [rustlings](https://github.com/rust-lang/rustlings), some of them have notes
+learning rust randomly on my free time with [rustlings](https://github.com/rust-lang/rustlings). this contains my solutions to the exercises i solved there, some of them contain my notes (as source code comments)
