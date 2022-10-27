@@ -1,1 +1,1 @@
-learning rust randomly on my free time with [rustlings](https://github.com/rust-lang/rustlings). this contains my solutions to the exercises i solved there, some of them contain my notes (as source code comments)
+learning rust randomly on my free time with [rustlings](https://github.com/rust-lang/rustlings). this contains my solutions to the exercises i solved there, some of them contain my notes (as source code comments). rust at the bottom of my priorities at the moment, might take me a while to go through this
